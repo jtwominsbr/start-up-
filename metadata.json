@@ -1,0 +1,6 @@
+{
+  "name": "트래블플랜랩 (TravelPlanLab)",
+  "description": "운영 시간·체류 시간·이동 시간·교통비·입장료·식비를 반영한 스마트 자유여행 일정 및 통합 예산 플래너",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
